@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(221, 220, 220);
+}
+div.up{
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0px 0px;
+    padding: 20px 100px;
+}
+div span{
+    padding: 0px 15px;
+}
+h1 {
+    text-align: center;
+}
+div.left{
+    position: absolute;
+    right: 100px;
+    top: 100px;
+    padding: 30px 10px;
+    text-align: center;
+}
+button {
+    background-color: orangered;
+    padding: 0px 50px;
+    color: white;
+    padding: 5px 75px;
+}
+div.bottom {
+    text-align: center;
+    color: white;
+    background-color: black;
+    padding: 20px 100px;
+    margin: 0px 0px;
+}
+
